@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-hello-world-rest-api/01-hello-world-rest-api.iml" filepath="$PROJECT_DIR$/01-hello-world-rest-api/01-hello-world-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-todo-web-application-h2/02-todo-web-application-h2.iml" filepath="$PROJECT_DIR$/02-todo-web-application-h2/02-todo-web-application-h2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-todo-web-application-mysql/03-todo-web-application-mysql.iml" filepath="$PROJECT_DIR$/03-todo-web-application-mysql/03-todo-web-application-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-spring-boot-react-full-stack-h2/restful-web-services/04-rest-api-full-stack.iml" filepath="$PROJECT_DIR$/04-spring-boot-react-full-stack-h2/restful-web-services/04-rest-api-full-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-hello-world-rest-api/07-hello-world-rest-api.iml" filepath="$PROJECT_DIR$/07-hello-world-rest-api/07-hello-world-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/deploy-spring-boot-to-azure.iml" filepath="$PROJECT_DIR$/.idea/deploy-spring-boot-to-azure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-todo-rest-api-h2-containerized/todo-rest-api-h2.iml" filepath="$PROJECT_DIR$/05-todo-rest-api-h2-containerized/todo-rest-api-h2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-todo-rest-api-mysql-containerized/todo-rest-api-mysql.iml" filepath="$PROJECT_DIR$/06-todo-rest-api-mysql-containerized/todo-rest-api-mysql.iml" />
+    </modules>
+  </component>
+</project>

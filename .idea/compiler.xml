@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="02-todo-web-application-h2" />
+        <module name="03-todo-web-application-mysql" />
+        <module name="04-rest-api-full-stack" />
+        <module name="todo-rest-api-h2" />
+        <module name="07-hello-world-rest-api" />
+        <module name="01-hello-world-rest-api" />
+        <module name="todo-rest-api-mysql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-hello-world-rest-api" target="1.8" />
+      <module name="02-todo-web-application-h2" target="1.8" />
+      <module name="03-todo-web-application-mysql" target="1.8" />
+      <module name="04-rest-api-full-stack" target="1.8" />
+      <module name="07-hello-world-rest-api" target="1.8" />
+      <module name="todo-rest-api-h2" target="1.8" />
+      <module name="todo-rest-api-mysql" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-hello-world-rest-api" options="-parameters" />
+      <module name="02-todo-web-application-h2" options="-parameters" />
+      <module name="03-todo-web-application-mysql" options="-parameters" />
+      <module name="04-rest-api-full-stack" options="-parameters" />
+      <module name="07-hello-world-rest-api" options="-parameters" />
+      <module name="todo-rest-api-h2" options="-parameters" />
+      <module name="todo-rest-api-mysql" options="-parameters" />
+    </option>
+  </component>
+</project>
